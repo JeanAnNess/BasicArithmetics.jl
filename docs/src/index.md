@@ -6,9 +6,10 @@ CurrentModule = BasicArithmetics
 
 Documentation for [BasicArithmetics](https://github.com/jeananness/BasicArithmetics.jl).
 
-```@index
-```
+Package for three basic mathematical operations.
 
-```@autodocs
-Modules = [BasicArithmetics]
+## Install
+
+```julia-repl
+pkg> add https://github.com/jeananness/BasicArithmetics.jl
 ```
