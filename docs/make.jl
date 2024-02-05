@@ -19,5 +19,5 @@ makedocs(;
 )
 
 deploydocs(;
-    repo="github.com/jeananness/BasicArithmetics.jl",
+    repo="github.com/jeananness/BasicArithmetics.jl.git",
 )
