@@ -20,5 +20,4 @@ makedocs(;
 
 deploydocs(;
     repo="github.com/jeananness/BasicArithmetics.jl",
-    devbranch="master",
 )
